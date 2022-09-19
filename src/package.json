@@ -1,0 +1,21 @@
+{
+  "name": "material-ui",
+  "version": "3.0.0",
+  "description": "hello world starter",
+  "keywords": [
+    "react",
+    "material"
+  ],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.2",
+    "@material-ui/styles": "4.11.2",
+    "d3": "6.3.1",
+    "d3-contour": "2.0.0",
+    "lodash": "4.17.20",
+    "react": "latest",
+    "react-dom": "latest",
+    "resize-observer-polyfill": "1.5.1"
+  }
+}
